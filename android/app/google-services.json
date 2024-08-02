@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "932595220305",
+    "firebase_url": "https://quest-c9433-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quest-c9433",
+    "storage_bucket": "quest-c9433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932595220305:android:624d3717dcd49c85bc5d70",
+        "android_client_info": {
+          "package_name": "com.carpool.carpooltest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-yeOmBeTrzu5565Xwr-ojlV8AWBdT0js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932595220305:android:9a499d829c33a3e5bc5d70",
+        "android_client_info": {
+          "package_name": "mobile.wsmb2024.ws02.carpool4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-yeOmBeTrzu5565Xwr-ojlV8AWBdT0js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
